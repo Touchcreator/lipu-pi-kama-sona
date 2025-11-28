@@ -1,0 +1,12 @@
+@import 'https://davidar.github.io/linja-pona/stylesheet.css';
+@import 'tailwindcss';
+@import '@fontsource/fira-mono';
+
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+
+
+
+@tailwind utilities;
+
